@@ -2,4 +2,4 @@ Django
 scikit-learn
 pandas
 numpy
-gunicon
+gunicorn
